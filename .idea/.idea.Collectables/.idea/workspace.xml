@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3ec9765-1d63-4fa1-84d1-be267df02b84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SpawnPoint.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SpawnPoint.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/bottle_blue.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/bottle_blue.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/bottle_green.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/bottle_green.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/bottle_red.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/bottle_red.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Bag.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Hero.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Hero.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MovementController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MovementController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PotionCollector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PotionCollector.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SpawnController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SpawnController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SpawnPoint.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/potions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/potions/FireballPotion.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/potions/FireballPotion.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/potions/HealthPotion.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/potions/HealthPotion.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/potions/Potion.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/potions/Potion.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/potions/SpeedPotion.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/potions/SpeedPotion.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Readme.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Readme.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-Balanced.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-Balanced.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-HighFidelity-Renderer.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-HighFidelity-Renderer.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-HighFidelity.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-HighFidelity.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-Performant.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-Performant.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/URP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/URP.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Layout.wlt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Layout.wlt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/71/43adf7e6/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BFF907ED-581F-483A-B4BD-129472866E97/10/d0aa243e/Collider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BFF907ED-581F-483A-B4BD-129472866E97/98/6a129545/Physics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F6650F70-2D12-47C2-A531-1A89B759BA03/c3/271f8188/EventDispatcher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/bb/52962c21/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/8a/4228b192/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/d0/4f37d5ea/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/3d/9c028e93/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2A397996-DAFF-4126-91AE-4781443E8E88/19/42fa0436/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B896110-0050-4A95-85EF-EC19BE4FAF3B/2e/4ff21de7/Animator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/284F0ABB-8014-497C-AC58-BCF5042A4EA9/43/be0e77ab/NativeInputSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/17D9CE77-F27A-4BD2-AFB5-BA32C9BEA976/32/335c6990/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Botle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PoitionCollector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealPotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpawnPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpawnController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Bag.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpeedPotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthPotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FireballPotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Hero.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Potion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bag.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PotionCollector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/potions/SpeedPotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/potions/HealthPotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/potions/FireballPotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnPoint.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2uuH47n3QVVWSJRRyHTnshRdQtL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502052" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.3002736" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.50097847" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="14132">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="14132" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3ec9765-1d63-4fa1-84d1-be267df02b84" name="Default Changelist" comment="" />
+      <created>1743091350256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743091350256</updated>
+      <workItem from="1743091355286" duration="9890000" />
+      <workItem from="1743233485111" duration="20644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="823" y="469" width="488" height="443" key="#xdebugger.evaluate" timestamp="1743327128430">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="823" y="469" width="488" height="443" key="#xdebugger.evaluate/0.0.1536.912@0.0.1536.912" timestamp="1743327128430" />
+    <state width="1493" height="323" key="GridCell.Tab.0.bottom" timestamp="1743327537496">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.0.bottom/0.0.1536.912@0.0.1536.912" timestamp="1743327537496" />
+    <state width="1493" height="323" key="GridCell.Tab.0.center" timestamp="1743327537496">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.0.center/0.0.1536.912@0.0.1536.912" timestamp="1743327537496" />
+    <state width="1493" height="323" key="GridCell.Tab.0.left" timestamp="1743327537496">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.0.left/0.0.1536.912@0.0.1536.912" timestamp="1743327537496" />
+    <state width="1493" height="323" key="GridCell.Tab.0.right" timestamp="1743327537496">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.0.right/0.0.1536.912@0.0.1536.912" timestamp="1743327537496" />
+    <state width="1493" height="323" key="GridCell.Tab.1.bottom" timestamp="1743327540389">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.1.bottom/0.0.1536.912@0.0.1536.912" timestamp="1743327540389" />
+    <state width="1493" height="323" key="GridCell.Tab.1.center" timestamp="1743327540389">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.1.center/0.0.1536.912@0.0.1536.912" timestamp="1743327540389" />
+    <state width="1493" height="323" key="GridCell.Tab.1.left" timestamp="1743327540389">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.1.left/0.0.1536.912@0.0.1536.912" timestamp="1743327540389" />
+    <state width="1493" height="323" key="GridCell.Tab.1.right" timestamp="1743327540389">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.1.right/0.0.1536.912@0.0.1536.912" timestamp="1743327540389" />
+    <state width="1493" height="323" key="GridCell.Tab.2.bottom" timestamp="1743327537381">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.2.bottom/0.0.1536.912@0.0.1536.912" timestamp="1743327537381" />
+    <state width="1493" height="323" key="GridCell.Tab.2.center" timestamp="1743327537381">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.2.center/0.0.1536.912@0.0.1536.912" timestamp="1743327537381" />
+    <state width="1493" height="323" key="GridCell.Tab.2.left" timestamp="1743327537381">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.2.left/0.0.1536.912@0.0.1536.912" timestamp="1743327537381" />
+    <state width="1493" height="323" key="GridCell.Tab.2.right" timestamp="1743327537381">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.2.right/0.0.1536.912@0.0.1536.912" timestamp="1743327537381" />
+    <state width="1493" height="323" key="GridCell.Tab.3.bottom" timestamp="1743327537381">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.3.bottom/0.0.1536.912@0.0.1536.912" timestamp="1743327537381" />
+    <state width="1493" height="323" key="GridCell.Tab.3.center" timestamp="1743327537381">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.3.center/0.0.1536.912@0.0.1536.912" timestamp="1743327537381" />
+    <state width="1493" height="323" key="GridCell.Tab.3.left" timestamp="1743327537381">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.3.left/0.0.1536.912@0.0.1536.912" timestamp="1743327537381" />
+    <state width="1493" height="323" key="GridCell.Tab.3.right" timestamp="1743327537381">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="1493" height="323" key="GridCell.Tab.3.right/0.0.1536.912@0.0.1536.912" timestamp="1743327537381" />
+    <state x="277" y="101" key="SettingsEditor" timestamp="1743323190528">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="277" y="101" key="SettingsEditor/0.0.1536.912@0.0.1536.912" timestamp="1743323190528" />
+    <state x="449" y="189" width="637" height="534" key="find.popup" timestamp="1743326267309">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="449" y="189" width="637" height="534" key="find.popup/0.0.1536.912@0.0.1536.912" timestamp="1743326267309" />
+    <state x="425" y="209" key="run.anything.popup" timestamp="1743318123092">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="425" y="209" key="run.anything.popup/0.0.1536.912@0.0.1536.912" timestamp="1743318123092" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/SpawnController.cs</url>
+          <line>25</line>
+          <properties documentPath="C:\Work\Unity\UnityProjects\Collectables\Assets\Scripts\SpawnController.cs" initialLine="25">
+            <startOffsets>
+              <option value="524" />
+            </startOffsets>
+            <endOffsets>
+              <option value="629" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Hero.cs</url>
+          <line>23</line>
+          <properties documentPath="C:\Work\Unity\UnityProjects\Collectables\Assets\Scripts\Hero.cs" initialLine="23">
+            <startOffsets>
+              <option value="610" />
+            </startOffsets>
+            <endOffsets>
+              <option value="638" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
