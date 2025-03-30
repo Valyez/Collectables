@@ -17,6 +17,7 @@
             <e p="Potion.cs" t="Include" />
             <e p="SpeedPotion.cs" t="Include" />
           </e>
+          <e p="Projectile.cs" t="Include" />
           <e p="SpawnController.cs" t="Include" />
           <e p="SpawnPoint.cs" t="Include" />
         </e>

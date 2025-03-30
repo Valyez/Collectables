@@ -3,7 +3,7 @@ using UnityEngine;
 public class Bag : MonoBehaviour
 {
     private Potion _potion;
-    
+
     public bool isEmpty()
     {
         return _potion == null;

@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 2804593327051933009}
   - component: {fileID: 2796561591003442145}
   - component: {fileID: 2868605573043866521}
-  - component: {fileID: 2836826498249896261}
   - component: {fileID: 5066286972606266535}
+  - component: {fileID: -4072376756362276474}
   m_Layer: 0
   m_Name: bottle_blue
   m_TagString: Untagged
@@ -108,7 +108,21 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!64 &2836826498249896261
+--- !u!114 &5066286972606266535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2782479175442938389}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22db83c83de447df82001ad7f99e49b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _fireballProjectile: {fileID: -1524644871983889382, guid: 240e056847e95334cb2762e356dd29b9,
+    type: 3}
+--- !u!64 &-4072376756362276474
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -130,18 +144,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: da8a393ba24fc6f49842d87b0937b84d, type: 3}
---- !u!114 &5066286972606266535
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2782479175442938389}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 22db83c83de447df82001ad7f99e49b9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &2782479176215403131
 GameObject:
   m_ObjectHideFlags: 0

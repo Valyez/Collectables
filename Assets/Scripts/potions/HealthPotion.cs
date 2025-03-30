@@ -7,7 +7,6 @@ public class HealthPotion : Potion
     public override void Use(Hero hero)
     {
         hero.AddHealth(_healthToAdd);
-        Destroy(gameObject);
-
+        base.Use(hero);
     }
 }

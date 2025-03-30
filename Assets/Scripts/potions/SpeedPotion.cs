@@ -7,6 +7,6 @@ public class SpeedPotion : Potion
     public override void Use(Hero hero)
     {
         hero.AddSpeed(_speedToAdd);
-        Destroy(gameObject);
+        base.Use(hero);
     }
 }

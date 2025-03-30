@@ -2,7 +2,7 @@
 
 public class PotionCollector : MonoBehaviour
 {
-    public Bag _bag;
+    private Bag _bag;
 
     public Bag Bag => _bag;
 
@@ -18,7 +18,6 @@ public class PotionCollector : MonoBehaviour
          {
              if (_bag.isEmpty())
              {
-
                  _bag.AddPotion(potion);
              }
              else

@@ -11,7 +11,6 @@ public class MovementController : MonoBehaviour
 
     [SerializeField] private float _speed;
 
-
     private void Update()
     {
         DecreaseSpeed();

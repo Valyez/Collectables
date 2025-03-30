@@ -6,9 +6,10 @@ public class Hero : MonoBehaviour
 {
     private const string MISSING_ITEM = "Предмет отсутствует!";
 
+    [SerializeField] private int _health;
+    
     private Bag _bag;
     private MovementController _movementController;
-    private int _health;
 
     private void Awake()
     {
