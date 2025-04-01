@@ -4,9 +4,15 @@ public class HealthPotion : Potion
 {
     [SerializeField] private int _healthToAdd;
 
-    public override void Use(Hero hero)
+    public override void Use(GameObject gameObject)
     {
-        hero.AddHealth(_healthToAdd);
-        base.Use(hero);
+        HealthBehaviour healthBehaviour = gameObject.GetComponent<HealthBehaviour>();
+        
+        if (healthBehaviour != null)
+        {
+            healthBehaviour.AddHealth(_healthToAdd);
+        }
+        
+        base.Use(gameObject);
     }
 }

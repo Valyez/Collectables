@@ -2,12 +2,17 @@
 
 public class FireballPotion : Potion
 {
-    [SerializeField] private Projectile _fireballProjectile;
+    
 
-    public override void Use(Hero hero)
+    public override void Use(GameObject gameObject)
     {
-        Transform heroTransform = hero.transform;
-        Instantiate(_fireballProjectile, heroTransform.position, heroTransform.rotation);
-        base.Use(hero);
+        AttackBehaviour attackBehaviour = gameObject.GetComponent<AttackBehaviour>();
+        
+        if (attackBehaviour != null)
+        {
+            attackBehaviour.Launch(gameObject.transform.rotation);
+        }
+        
+        base.Use(gameObject);
     }
 }

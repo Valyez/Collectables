@@ -4,7 +4,7 @@ public class Bag : MonoBehaviour
 {
     private Potion _potion;
 
-    public bool isEmpty()
+    public bool IsEmpty()
     {
         return _potion == null;
     }
@@ -19,8 +19,10 @@ public class Bag : MonoBehaviour
         potion.transform.SetParent(transform);
     }
 
-    public Potion getPotion()
+    public Potion GetPotion()
     {
-        return _potion;
+        Potion potion = _potion;
+        _potion = null;
+        return potion;
     }
 }

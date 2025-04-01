@@ -5,26 +5,28 @@
 public class Hero : MonoBehaviour
 {
     private const string MISSING_ITEM = "Предмет отсутствует!";
-
-    [SerializeField] private int _health;
-    
     private Bag _bag;
-    private MovementController _movementController;
+    
 
     private void Awake()
     {
         PotionCollector collector = GetComponent<PotionCollector>();
         _bag = collector.Bag;
-        _movementController = GetComponent<MovementController>();
     }
 
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.F))
         {
-            if (_bag.isEmpty() == false)
+            if (_bag.IsEmpty() == false)
             {
-                _bag.getPotion().Use(this);
+                _bag.GetPotion().Use(gameObject);
+                ParticleSystem particleSystem = _bag.gameObject.GetComponentInChildren<ParticleSystem>();
+                
+                if (particleSystem != null)
+                {
+                    particleSystem.Play();
+                }
             }
             else
             {
@@ -33,20 +35,5 @@ public class Hero : MonoBehaviour
         }
     }
 
-    public void AddHealth(int addedHealth)
-    {
-        if (addedHealth > 0)
-        {
-            _health += addedHealth;
-            Debug.Log(_health);
-        }
-    }
-
-    public void AddSpeed(float addedSpeed)
-    {
-        if (addedSpeed > 0)
-        {
-            _movementController.AddSpeed(addedSpeed);
-        }
-    }
+    
 }

@@ -52,11 +52,14 @@ public class MovementController : MonoBehaviour
 
     public void AddSpeed(in float addedSpeed)
     {
-        _speed += addedSpeed;
-
-        if (_speed > MAX_SPEED)
+        if (addedSpeed > 0)
         {
-            _speed = MAX_SPEED;
+            _speed += addedSpeed;
+
+            if (_speed > MAX_SPEED)
+            {
+                _speed = MAX_SPEED;
+            }
         }
     }
 }

@@ -33,7 +33,7 @@ public class SpawnController : MonoBehaviour
         }
 
         Potion randomPotion = _potionsPrefabs[Random.Range(0, _potionsPrefabs.Count)];
-        SpawnPoint randomPosition = emptySpawnPoints[Random.Range(0, _spawnPoints.Count)];
+        SpawnPoint randomPosition = emptySpawnPoints[Random.Range(0, emptySpawnPoints.Count)];
         Potion newPotion = Instantiate(randomPotion, randomPosition.transform);
         randomPosition.Occupy(newPotion);
     }

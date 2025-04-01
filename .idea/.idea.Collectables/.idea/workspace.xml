@@ -11,97 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3ec9765-1d63-4fa1-84d1-be267df02b84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Glow_particles.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Glow_particles.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Stars_particles.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Stars_particles.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/StarsParticles.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/StarsParticles.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/sprite_radiance.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/sprite_radiance.tif.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/star.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AttackBehaviour.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AttackBehaviour.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HealthBehaviour.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HealthBehaviour.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Collectables/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Collectables/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Collectables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Collectables/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Hero.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Hero.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/SpawnPoint.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/SpawnPoint.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/bottle_blue.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/bottle_blue.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/bottle_green.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/bottle_green.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/bottle_red.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/bottle_red.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Animations.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Animations/ItemsAC.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Animations/ItemsAC.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Bottle_blue.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Bottle_blue.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Bottle_green.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Bottle_green.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Bottle_red.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Bottle_red.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Box_Of_Pandora.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Box_Of_Pandora.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Coin.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Coin.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Dust_particles.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Dust_particles.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Glow_particles.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Glow_particles.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Stars_particles.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Materials/Stars_particles.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Models.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Models/Bottles.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Models/Bottles/bottle_blue.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Models/Bottles/bottle_blue.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Models/Bottles/bottle_green.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Models/Bottles/bottle_green.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Models/Bottles/bottle_red.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Models/Bottles/bottle_red.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Models/Box.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Models/Box.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Models/Coin.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Models/Coin.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Prefabs/Bottle_Endurance.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Prefabs/Bottle_Endurance.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Prefabs/Bottle_Health.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Prefabs/Bottle_Health.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Prefabs/Bottle_Mana.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Prefabs/Bottle_Mana.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Prefabs/BoxOfPandora.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Prefabs/BoxOfPandora.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Prefabs/Coin.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Prefabs/Coin.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Bottle_blue_diff.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Bottle_blue_diff.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Bottle_green_diff.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Bottle_green_diff.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Bottle_red_diff.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Bottle_red_diff.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Bottles_normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Bottles_normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Bottles_spec.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Bottles_spec.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/BoxOfPandora_diffuse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/BoxOfPandora_diffuse.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Coin_diffuse.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Coin_diffuse.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Coin_normals.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Coin_normals.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Dust_particles.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/Dust_particles.tif.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/sprite_radiance.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/sprite_radiance.tif.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/star.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/RPG Pack/Textures/star.png.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bag.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Bag.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Hero.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Hero.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MovementController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PotionCollector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PotionCollector.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpawnPoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SpawnPoint.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpawnController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SpawnController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/potions/FireballPotion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/potions/FireballPotion.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/potions/HealthPotion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/potions/HealthPotion.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/potions/Potion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/potions/Potion.cs" afterDir="false" />
@@ -116,62 +38,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/71/43adf7e6/Object.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BFF907ED-581F-483A-B4BD-129472866E97/10/d0aa243e/Collider.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BFF907ED-581F-483A-B4BD-129472866E97/98/6a129545/Physics.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F6650F70-2D12-47C2-A531-1A89B759BA03/c3/271f8188/EventDispatcher.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/bb/52962c21/Transform.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/8a/4228b192/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/d0/4f37d5ea/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/3d/9c028e93/Component.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2A397996-DAFF-4126-91AE-4781443E8E88/19/42fa0436/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B896110-0050-4A95-85EF-EC19BE4FAF3B/2e/4ff21de7/Animator.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/71/43adf7e6/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/8a/4228b192/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/d0/4f37d5ea/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BFF907ED-581F-483A-B4BD-129472866E97/10/d0aa243e/Collider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F7237CF7-ABEF-49BF-BB55-2D7EB076E422/3d/9c028e93/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BFF907ED-581F-483A-B4BD-129472866E97/98/6a129545/Physics.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2A397996-DAFF-4126-91AE-4781443E8E88/19/42fa0436/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/284F0ABB-8014-497C-AC58-BCF5042A4EA9/43/be0e77ab/NativeInputSystem.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F6650F70-2D12-47C2-A531-1A89B759BA03/c3/271f8188/EventDispatcher.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/17D9CE77-F27A-4BD2-AFB5-BA32C9BEA976/32/335c6990/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -188,17 +66,20 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/HealthPotion.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FireballPotion.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Potion.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpawnPoint.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PotionCollector.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovementController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Bag.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/potions/HealthPotion.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/potions/SpeedPotion.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/potions/FireballPotion.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/potions/Potion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/potions/HealthPotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/potions/AttackBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Hero.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/potions/FireballPotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AttackBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bag.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/potions/Potion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PotionCollector.cs" />
       </list>
     </option>
   </component>
@@ -231,10 +112,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="14132">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="14132" />
+      <option name="pid" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -251,6 +132,7 @@
       <updated>1743091350256</updated>
       <workItem from="1743091355286" duration="9890000" />
       <workItem from="1743233485111" duration="25772000" />
+      <workItem from="1743515391954" duration="3515000" />
     </task>
     <servers />
   </component>
@@ -344,10 +226,18 @@
       <screen x="0" y="0" width="1536" height="912" />
     </state>
     <state width="1493" height="323" key="GridCell.Tab.3.right/0.0.1536.912@0.0.1536.912" timestamp="1743333078218" />
+    <state x="807" y="149" key="RiderGenerateDialog" timestamp="1743516398725">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="807" y="149" key="RiderGenerateDialog/0.0.1536.912@0.0.1536.912" timestamp="1743516398725" />
     <state x="277" y="101" key="SettingsEditor" timestamp="1743323190528">
       <screen x="0" y="0" width="1536" height="912" />
     </state>
     <state x="277" y="101" key="SettingsEditor/0.0.1536.912@0.0.1536.912" timestamp="1743323190528" />
+    <state x="662" y="271" width="1276" height="898" key="dock-window-1" timestamp="1743517384406">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="662" y="271" width="1276" height="898" key="dock-window-1/0.0.1536.912@0.0.1536.912" timestamp="1743517384406" />
     <state x="449" y="189" width="637" height="534" key="find.popup" timestamp="1743326267309">
       <screen x="0" y="0" width="1536" height="912" />
     </state>
@@ -362,13 +252,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Scripts/Hero.cs</url>
-          <line>24</line>
+          <line>20</line>
           <properties documentPath="C:\Work\Unity\UnityProjects\Collectables\Assets\Scripts\Hero.cs" initialLine="23">
             <startOffsets>
-              <option value="632" />
+              <option value="471" />
             </startOffsets>
             <endOffsets>
-              <option value="660" />
+              <option value="499" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="22" />

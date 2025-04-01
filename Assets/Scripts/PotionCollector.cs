@@ -8,22 +8,29 @@ public class PotionCollector : MonoBehaviour
 
     private void Awake()
     {
-        _bag = gameObject.GetComponentInChildren(typeof(Bag)) as Bag;
+        Bag bag = gameObject.GetComponentInChildren<Bag>();
+        
+        if (bag != null)
+        {
+            _bag = bag;
+        }
     }
 
     private void OnTriggerEnter(Collider other)
-     {
-         Potion potion = other.gameObject.GetComponent<Potion>();
-         if (potion != null )
-         {
-             if (_bag.isEmpty())
-             {
-                 _bag.AddPotion(potion);
-             }
-             else
-             {
-                 Debug.Log("Сумка полная, нельзя подобрать предмет!");
-             }
-         }
-     }
+    {
+        Potion potion = other.gameObject.GetComponent<Potion>();
+        
+        if (potion != null)
+        {
+            if (_bag.IsEmpty())
+            {
+                _bag.AddPotion(potion);
+                potion.Collect();
+            }
+            else
+            {
+                Debug.Log("Сумка полная, нельзя подобрать предмет!");
+            }
+        }
+    }
 }
